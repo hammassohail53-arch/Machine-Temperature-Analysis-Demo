@@ -11,7 +11,7 @@ In real-world, the same concept can be extended using **Arduino / Raspberry Pi**
 ## 🚀 How to Run
 1. Clone or download this repository.  
 2. Run the `server.py` file in one terminal.  
-3. Run the `client.py` file in another terminal.  
+3. Run the `MAchine.py` file in another terminal.  
 4. The client will send random temperature data to the server.  
 
 ---
